@@ -64,6 +64,10 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **ICML**
 - SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition [[paper](https://arxiv.org/pdf/2606.03610)] [[code](https://github.com/lya19971103/SkelHCC)]
+- Universal Skeleton Understanding via Differentiable Rendering and MLLMs [[paper](https://arxiv.org/pdf/2603.18003)] [[code](https://github.com/wangzy01/SkeletonLLM)]
+
+**ACL**
+- InsAT: Instance-aware Semantic Alignment and Transfer from Human–Object Keypoints for Zero-to-Few-shot Action Understanding [[paper](https://aclanthology.org/2026.acl-long.1690/)]
 
 **AAAI**
 - FineTec: Fine-Grained Action Recognition under Temporal Corruption via Skeleton Decomposition and Sequence Completion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37838)] [[code](https://github.com/SmartDianLab/FineTec)]
@@ -93,6 +97,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Dual-Geometry Prior Frequency Nonlinear Graph Convolutional Network for Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11460716)]
 - Kinematic Priors Benefit Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11461868)]
 
+**MICCAI**
+- A Neurosymbolic Framework for Interpretable Skeleton-Based Seizure Detection via Concept-Driven Logical Reasoning [[paper](https://arxiv.org/pdf/2606.21252)] [[code](https://github.com/Mr-TalhaIlyas/CDSD)]
+
 **IJCV**
 - DeST: A Decoupled Spatio-Temporal Framework for Action Segmentation [[paper](https://link.springer.com/article/10.1007/s11263-026-02797-0)] [[code](https://github.com/lyhisme/DeST)]
 
@@ -101,6 +108,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Local Dimension Enhancement Representation Learning for Skeleton-Based Action Segmentation [[paper](https://ieeexplore.ieee.org/abstract/document/11481594)] [[code](https://github.com/CarefreeSun/LoDE_TAS)]
 - Star-shaped Multi-person Interaction Graph Model for Group Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11489293)]
 - Spatial-Temporal Self-Compensating Graph Convolutional Network for Skeleton-Based Action Recognition Under Data Constraints [[paper](https://ieeexplore.ieee.org/abstract/document/11538388)]
+- CVDII: Enhancing One-Shot Skeleton Action Recognition Through Cross-View Dynamic Information Interaction [[paper](https://ieeexplore.ieee.org/abstract/document/11585927)]
 
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
@@ -108,10 +116,13 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TMM**
 - Ranking-based Self-Supervised Representation Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11353928)]
+- Topology-Evolving Semantic Adaptation for Few-Shot Class-Incremental Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11563642)]
+- CrossDiffAE: Cross-Modal Masked Diffusion Autoencoding for Zero-Shot Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11594951)]
 
 **TCSVT**
 - STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11339971)] [[code](https://github.com/cseeyangchen/STAR_pp)]
 - Prompted Contrastive Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11474961)] [[code](https://mic.tongji.edu.cn/9e/73/c9778a368243/page.htm)]
+- Quality-Preserving Imperceptible Adversarial Attack on Skeleton-based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11560959)] [[code](https://github.com/mrzzy2021/QualityPreservingAttack)]
 - Dynamic Prompting Spatial Temporal Actor Transformer for Fine-grained Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11328855)]
 - Constant-invariant Information Guided Augmented Spatiotemporal Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11422982)]
 
@@ -123,6 +134,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **Neurocomputing**
 - FMFNet: A Faster Multimodal Fusion Network for action recognition via efficient modality compensation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004881)]
+- Refining skeleton with text: A diffusion-enhanced contrastive learning framework for action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226016863)]
 
 **arXiv papers**
 - Affinity Contrastive Learning for Skeleton-based Human Activity Understanding [[paper](https://arxiv.org/abs/2601.16694)] [[code](https://github.com/firework8/ACLNet)]
@@ -136,6 +148,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2604.17090)] [[code](https://github.com/jidongkuang/CoAMD)]
 - SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction [[paper](https://arxiv.org/abs/2604.27508)] [[code](https://anonymous.4open.science/r/SASI/README.md)]
 - iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning [[paper](https://arxiv.org/abs/2605.10732)] [[code](https://github.com/ccoopq/iPay)]
+- Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach [[paper](https://arxiv.org/abs/2607.00716)] [[code](https://github.com/yaa1haa1/PartialVisGraph)]
 - Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
 - ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning [[paper](https://arxiv.org/abs/2602.06251)]
 - Skarimva: Skeleton-based Action Recognition is a Multi-view Application [[paper](https://arxiv.org/abs/2602.23231)]
@@ -144,12 +157,14 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - M3GCLR: Multi-View Mini-Max Infinite Skeleton-Data Game Contrastive Learning For Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2603.09367)]
 - Severe Domain Shift in Skeleton-Based Action Recognition: A Study of Uncertainty Failure in Real-World Gym Environments [[paper](https://arxiv.org/abs/2603.15574)]
 - KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition [[paper](https://arxiv.org/abs/2603.16943)]
-- Universal Skeleton Understanding via Differentiable Rendering and MLLMs [[paper](https://arxiv.org/abs/2603.18003)]
 - S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition [[paper](https://arxiv.org/abs/2603.18062)]
 - LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model [[paper](https://arxiv.org/abs/2603.27103)]
 - Explainable Fall Detection for Elderly Care via Temporally Stable SHAP in Skeleton-Based Human Activity Recognition [[paper](https://arxiv.org/abs/2604.13279)]
 - Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization [[paper](https://arxiv.org/abs/2604.15196)]
 - PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2605.11497)]
+- Skeleton-Based Activity Recognition for Children with Autism Using Graph Convolutional Networks [[paper](https://www.preprints.org/frontend/manuscript/e77cfe8b75c37c00f9d47ffd89d5acef/download_pub)]
+- T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition [[paper](https://arxiv.org/abs/2606.21607)]
+- From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2607.03327)]
 
 
 ### 2025
@@ -1071,6 +1086,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 11, 2026
+## Last update: Jul 18, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
